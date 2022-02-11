@@ -1,7 +1,7 @@
 # Manuel Crespo
 
 <h2 align="center">About me</h2>
-<h4> Hello! My name is Bruno Sentinelli, I am a Full Stack Developer with great knowledge in JavaScript, NodeJS, Express, PostgreSQL, Sequelize, React, Redux, HTML, CSS
+<h4> Hello! My name is Manuel Crespo, I am a Full Stack Developer with great knowledge in JavaScript, NodeJS, Express, PostgreSQL, Sequelize, React, Redux, HTML, CSS
 I am currently looking to be part of a project or team which allows me to grow my knowledge both personally and professionally.<h4>
 
 ### Tech & Tools Preference
